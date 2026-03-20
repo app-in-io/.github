@@ -1,5 +1,7 @@
 <h1 align="center">
   <br>
+  <img src="https://raw.githubusercontent.com/app-in-io/.github/main/profile/logo.svg" alt="app-in.io" width="80">
+  <br>
   app-in.io
   <br>
 </h1>
